@@ -1,0 +1,5 @@
+com\uteachon\demos\hibernate\conf\HibernateConf.class
+com\uteachon\demos\hibernate\dao\StockInventoryDAOImpl.class
+com\uteachon\demos\hibernate\App.class
+com\uteachon\demos\hibernate\dao\StockInventoryDAO.class
+com\uteachon\demos\hibernate\model\StockInventory.class
